@@ -5,6 +5,4 @@ spring:
     url: jdbc:mysql:///5a?useSSL=true&serverTimezone=UTC
     password: 1234
     username: root
-  application:
-      name: cloud-provider
   
