@@ -1,8 +1,10 @@
-lable: configs
+lable: config
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql:///5a?useSSL=true&serverTimezone=UTC
-    password: 1234
+    url: jdbc:mysql:///micro
     username: root
+    password: 1234
+  application:
+    name: provider
   
