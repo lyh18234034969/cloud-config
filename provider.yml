@@ -1,4 +1,4 @@
-lable: config-plus-6
+lable: config-plus-7
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
