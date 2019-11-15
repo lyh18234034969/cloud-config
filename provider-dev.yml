@@ -12,3 +12,4 @@ spring:
     port: 5672
     username: rabbit
     password: rabbit
+test: test
